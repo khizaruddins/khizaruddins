@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khizaruddins
 - 👀 I’m interested in creating visual entity
-- 🌱 I’m currently learning React firebase
+- 🌱 I’m currently learning Node Flutter and NextJS
 - 💞️ I’m looking to collaborate on React Angular frontend projects
 - 📫 How to reach me mail me via email using khizaruddins@gmail.com, 
 - ✨ Follow me on twitter https://twitter.com/khizaruddins, Linkedin https://linkedin.com/in/khizaruddins, instagram https://www.instagram.com/themuslimsdev
