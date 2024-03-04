@@ -13,7 +13,7 @@
 <br>
 I'm a Frontend Developer and I completed my graduation in the field of Computer Engineering from Mumbai University. I love programming language and like to explore new technologies. 
 - :computer: I am Sr. Software Engineer mostly worked on Frontend (Angular/React).
-- :books: continuous learner.
+- :books: Continuous Learner.
 - :movie_camera: I like watching Anime Shows and Youtube Videos.
 - :zap:Fun Fact: talk is cheap show me the code.
 ## :toolbox: Languages and Tools:
